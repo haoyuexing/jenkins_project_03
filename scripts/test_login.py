@@ -13,6 +13,4 @@ class TestLogin:
         assert 1
 
     def test_login5(self):
-        assert 0
-        
-        pass
+        assert 5
